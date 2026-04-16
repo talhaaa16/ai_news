@@ -1,0 +1,5 @@
+mitrailleuse/
+venv
+__pycache__/
+.env
+last_news.txt
